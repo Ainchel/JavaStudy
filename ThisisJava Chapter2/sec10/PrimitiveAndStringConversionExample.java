@@ -1,7 +1,7 @@
 package ch02.sec10;
 
 public class PrimitiveAndStringConversionExample {
-	//문자열을 기본 타입으로 변환하는 방법에 대해.
+	//문자열을 기본 타입으로 변환하는 방법에 대해서.
 	
 	//자바에서 문자열을 각종 기본 타입으로 변환하는 방법은 아래와 같다.
 	//----리터럴은 그냥 입력하면 되고, str이라는 문자열이 있다고 한다면,
