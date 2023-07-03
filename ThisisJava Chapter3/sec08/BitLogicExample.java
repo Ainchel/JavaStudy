@@ -46,8 +46,7 @@ public class BitLogicExample {
 		//아래는 Java언어 Byte에 uint값을 넣었을 때 출력되는 값.
 		int test = 136;
 		byte btest = (byte)test;
-		System.out.println("uint->Byte 변환 값 : " + btest);
-		
+		System.out.println("uint->Byte 변환 값 : " + btest);	
 	}
 
 }
